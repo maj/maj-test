@@ -1,0 +1,695 @@
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#show (for 172.16.181.1 at 2009-12-15 16:27:40) [GET]
+
+ActionController::UnknownAction (No action responded to show. Actions: ):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#show (for 172.16.181.1 at 2009-12-15 16:28:01) [GET]
+
+ActiveRecord::RecordNotFound (Couldn't find User without an ID):
+  app/controllers/users_controller.rb:3:in `show'
+
+Rendered rescues/_trace (33.1ms)
+Rendered rescues/_request_and_response (1.3ms)
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#show (for 172.16.181.1 at 2009-12-15 16:28:24) [GET]
+
+ActionController::UnknownAction (No action responded to show. Actions: list):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#show (for 172.16.181.1 at 2009-12-15 16:28:24) [GET]
+
+ActionController::UnknownAction (No action responded to show. Actions: list):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#show (for 172.16.181.1 at 2009-12-15 16:28:24) [GET]
+
+ActionController::UnknownAction (No action responded to show. Actions: list):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#show (for 172.16.181.1 at 2009-12-15 16:28:44) [GET]
+
+ActiveRecord::RecordNotFound (Couldn't find User without an ID):
+  app/controllers/users_controller.rb:7:in `show'
+
+Rendered rescues/_trace (33.5ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#5 (for 172.16.181.1 at 2009-12-15 16:29:19) [GET]
+
+ActionController::UnknownAction (No action responded to 5. Actions: list, new, save, and show):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#show (for 172.16.181.1 at 2009-12-15 16:30:14) [GET]
+
+ActiveRecord::RecordNotFound (Couldn't find User without an ID):
+  app/controllers/users_controller.rb:7:in `show'
+
+Rendered rescues/_trace (32.6ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.9ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#show (for 172.16.181.1 at 2009-12-15 16:32:31) [GET]
+
+ActiveRecord::RecordNotFound (Couldn't find User without an ID):
+  app/controllers/users_controller.rb:7:in `show'
+
+Rendered rescues/_trace (78.5ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#show (for 172.16.181.1 at 2009-12-15 16:33:58) [GET]
+
+ActiveRecord::RecordNotFound (Couldn't find User without an ID):
+  app/controllers/users_controller.rb:7:in `show'
+
+Rendered rescues/_trace (33.2ms)
+Rendered rescues/_request_and_response (1.2ms)
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#show (for 172.16.181.1 at 2009-12-15 16:34:00) [GET]
+
+ActiveRecord::RecordNotFound (Couldn't find User without an ID):
+  app/controllers/users_controller.rb:7:in `show'
+
+Rendered rescues/_trace (32.8ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#show (for 172.16.181.1 at 2009-12-15 16:34:00) [GET]
+
+ActiveRecord::RecordNotFound (Couldn't find User without an ID):
+  app/controllers/users_controller.rb:7:in `show'
+
+Rendered rescues/_trace (32.7ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#show (for 172.16.181.1 at 2009-12-15 16:34:12) [GET]
+
+ActiveRecord::RecordNotFound (Couldn't find User without an ID):
+  app/controllers/users_controller.rb:7:in `show'
+
+Rendered rescues/_trace (31.7ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#2 (for 172.16.181.1 at 2009-12-15 16:34:19) [GET]
+
+ActionController::UnknownAction (No action responded to 2. Actions: create, index, new, and show):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#list (for 172.16.181.1 at 2009-12-15 16:34:46) [GET]
+
+ActionController::UnknownAction (No action responded to list. Actions: create, index, new, and show):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#index (for 172.16.181.1 at 2009-12-15 16:34:50) [GET]
+  [4;35;1mUser Load (0.0ms)[0m   [0mMysql::Error: Table 'majtest_dev.users' doesn't exist: SELECT * FROM `users` [0m
+
+ActiveRecord::StatementInvalid (Mysql::Error: Table 'majtest_dev.users' doesn't exist: SELECT * FROM `users` ):
+  app/controllers/users_controller.rb:3:in `index'
+
+Rendered rescues/_trace (44.1ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.6ms)[0m   [0mSHOW TABLES[0m
+  [4;36;1mSQL (29.2ms)[0m   [0;1mCREATE TABLE `schema_migrations` (`version` varchar(255) NOT NULL) ENGINE=InnoDB[0m
+  [4;35;1mSQL (340.5ms)[0m   [0mCREATE UNIQUE INDEX `unique_schema_migrations` ON `schema_migrations` (`version`)[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT version FROM schema_migrations[0m
+Migrating to CreateUsers (20091216002301)
+  [4;36;1mSQL (12.8ms)[0m   [0;1mCREATE TABLE `users` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `email` varchar(255) DEFAULT '' NOT NULL, `first_name` varchar(255) DEFAULT '' NOT NULL, `last_name` varchar(255) DEFAULT '' NOT NULL, `created_at` datetime, `updated_at` datetime) ENGINE=InnoDB[0m
+  [4;35;1mSQL (0.6ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('20091216002301')[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT version FROM schema_migrations[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (0.8ms)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mdescribe `users`[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSHOW KEYS FROM `users`[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#index (for 172.16.181.1 at 2009-12-15 16:35:15) [GET]
+  [4;35;1mUser Load (0.3ms)[0m   [0mSELECT * FROM `users` [0m
+
+ActionView::MissingTemplate (Missing template users/index.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#index (for 172.16.181.1 at 2009-12-15 16:39:49) [GET]
+  [4;35;1mUser Load (0.3ms)[0m   [0mSELECT * FROM `users` [0m
+
+ActionView::MissingTemplate (Missing template users/index.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#index (for 172.16.181.1 at 2009-12-15 16:39:51) [GET]
+  [4;35;1mUser Load (0.3ms)[0m   [0mSELECT * FROM `users` [0m
+
+ActionView::MissingTemplate (Missing template users/index.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.181.1 at 2009-12-15 16:39:56) [GET]
+
+ActionController::RoutingError (No route matches "/users/index.html" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#index (for 172.16.181.1 at 2009-12-15 16:40:00) [GET]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM `users` [0m
+
+ActionView::MissingTemplate (Missing template users/index.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#index (for 172.16.181.1 at 2009-12-15 16:40:32) [GET]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM `users` [0m
+Rendering users/index
+Completed in 20ms (View: 10, DB: 0) | 200 OK [http://tkdevvm/users/index]
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#index (for 172.16.181.1 at 2009-12-15 16:42:59) [GET]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM `users` [0m
+Rendering users/index
+Completed in 14ms (View: 6, DB: 0) | 200 OK [http://tkdevvm/users/index]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#new (for 172.16.181.1 at 2009-12-15 16:44:53) [GET]
+  [4;36;1mUser Columns (0.9ms)[0m   [0;1mSHOW FIELDS FROM `users`[0m
+Rendering users/new
+Completed in 61ms (View: 51, DB: 1) | 200 OK [http://tkdevvm/users/new]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#new (for 172.16.181.1 at 2009-12-15 16:46:20) [GET]
+  [4;36;1mUser Columns (0.8ms)[0m   [0;1mSHOW FIELDS FROM `users`[0m
+Rendering users/new
+Completed in 18ms (View: 9, DB: 1) | 200 OK [http://tkdevvm/users/new]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#new (for 172.16.181.1 at 2009-12-15 16:46:59) [GET]
+  [4;36;1mUser Columns (0.7ms)[0m   [0;1mSHOW FIELDS FROM `users`[0m
+Rendering users/new
+Completed in 18ms (View: 9, DB: 1) | 200 OK [http://tkdevvm/users/new]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#create (for 172.16.181.1 at 2009-12-15 16:47:12) [POST]
+  Parameters: {"commit"=>"Create", "authenticity_token"=>"LD5N7YVno6HrMZxf/dz02RhSk6ecRpIMV9j/W27eSBU=", "user"=>{"last_name"=>"Last", "email"=>"maj@something.com", "first_name"=>"MAJ"}}
+
+NameError (uninitialized constant UsersController::Category):
+  app/controllers/users_controller.rb:15:in `create'
+
+Rendered rescues/_trace (31.9ms)
+Rendered rescues/_request_and_response (0.4ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#create (for 172.16.181.1 at 2009-12-15 16:47:44) [POST]
+  Parameters: {"commit"=>"Create", "authenticity_token"=>"LD5N7YVno6HrMZxf/dz02RhSk6ecRpIMV9j/W27eSBU=", "user"=>{"last_name"=>"Last", "email"=>"maj@something.com", "first_name"=>"MAJ"}}
+  [4;35;1mUser Columns (0.7ms)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Create (0.6ms)[0m   [0mINSERT INTO `users` (`created_at`, `updated_at`, `last_name`, `email`, `first_name`) VALUES('2009-12-16 00:47:44', '2009-12-16 00:47:44', 'Last', 'maj@something.com', 'MAJ')[0m
+  [4;36;1mSQL (15.5ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mUser Load (0.2ms)[0m   [0mSELECT * FROM `users` [0m
+
+ActionView::MissingTemplate (Missing template users/#<User:0xb7b537c4>.erb in view path app/views):
+  app/controllers/users_controller.rb:17:in `create'
+
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#create (for 172.16.181.1 at 2009-12-15 16:48:14) [POST]
+  Parameters: {"commit"=>"Create", "authenticity_token"=>"LD5N7YVno6HrMZxf/dz02RhSk6ecRpIMV9j/W27eSBU=", "user"=>{"last_name"=>"Last", "email"=>"maj@something.com", "first_name"=>"MAJ"}}
+  [4;35;1mUser Columns (0.6ms)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Create (0.6ms)[0m   [0mINSERT INTO `users` (`created_at`, `updated_at`, `last_name`, `email`, `first_name`) VALUES('2009-12-16 00:48:14', '2009-12-16 00:48:14', 'Last', 'maj@something.com', 'MAJ')[0m
+  [4;36;1mSQL (11.8ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mUser Load (0.2ms)[0m   [0mSELECT * FROM `users` [0m
+
+ActionView::MissingTemplate (Missing template users/#<User:0xb7a53374>#<User:0xb7a53324>.erb in view path app/views):
+  app/controllers/users_controller.rb:17:in `create'
+
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (1.5ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#index (for 172.16.181.1 at 2009-12-15 16:48:20) [GET]
+  [4;35;1mUser Load (0.2ms)[0m   [0mSELECT * FROM `users` [0m
+Rendering users/index
+  [4;36;1mUser Columns (0.5ms)[0m   [0;1mSHOW FIELDS FROM `users`[0m
+Completed in 12ms (View: 3, DB: 2) | 200 OK [http://tkdevvm/users/index]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#new (for 172.16.181.1 at 2009-12-15 16:48:41) [GET]
+  [4;36;1mUser Columns (0.7ms)[0m   [0;1mSHOW FIELDS FROM `users`[0m
+Rendering users/new
+Completed in 15ms (View: 5, DB: 1) | 200 OK [http://tkdevvm/users/new]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#create (for 172.16.181.1 at 2009-12-15 16:48:49) [POST]
+  Parameters: {"commit"=>"Create", "authenticity_token"=>"LD5N7YVno6HrMZxf/dz02RhSk6ecRpIMV9j/W27eSBU=", "user"=>{"last_name"=>"Yao", "email"=>"byao@something.com", "first_name"=>"Bob"}}
+  [4;36;1mUser Columns (0.8ms)[0m   [0;1mSHOW FIELDS FROM `users`[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mUser Create (0.2ms)[0m   [0;1mINSERT INTO `users` (`created_at`, `updated_at`, `last_name`, `email`, `first_name`) VALUES('2009-12-16 00:48:49', '2009-12-16 00:48:49', 'Yao', 'byao@something.com', 'Bob')[0m
+  [4;35;1mSQL (8.0ms)[0m   [0mCOMMIT[0m
+Rendering users/index
+
+ActionView::TemplateError (You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.each) on line #3 of app/views/users/index.html.erb:
+1: This is a test<br>
+2: 
+3: <% @users.each do |user| %>
+4: 	First name: <%= user.first_name %>, Last name: <%= user.last_name%>
+5: <% end %>
+
+    app/views/users/index.html.erb:3
+    app/controllers/users_controller.rb:17:in `create'
+
+Rendered rescues/_trace (39.2ms)
+Rendered rescues/_request_and_response (0.4ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#create (for 172.16.181.1 at 2009-12-15 16:49:50) [POST]
+  Parameters: {"commit"=>"Create", "authenticity_token"=>"LD5N7YVno6HrMZxf/dz02RhSk6ecRpIMV9j/W27eSBU=", "user"=>{"last_name"=>"Yao", "email"=>"byao@something.com", "first_name"=>"Bob"}}
+  [4;35;1mUser Columns (0.7ms)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Create (0.4ms)[0m   [0mINSERT INTO `users` (`created_at`, `updated_at`, `last_name`, `email`, `first_name`) VALUES('2009-12-16 00:49:50', '2009-12-16 00:49:50', 'Yao', 'byao@something.com', 'Bob')[0m
+  [4;36;1mSQL (12.4ms)[0m   [0;1mCOMMIT[0m
+Redirected to http://tkdevvm:3000/users
+Completed in 26ms (DB: 14) | 302 Found [http://tkdevvm/users]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#show (for 172.16.181.1 at 2009-12-15 16:49:50) [GET]
+
+ActiveRecord::RecordNotFound (Couldn't find User without an ID):
+  app/controllers/users_controller.rb:7:in `show'
+
+Rendered rescues/_trace (36.0ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#index (for 172.16.181.1 at 2009-12-15 16:49:56) [GET]
+  [4;35;1mUser Load (0.3ms)[0m   [0mSELECT * FROM `users` [0m
+Rendering users/index
+  [4;36;1mUser Columns (0.5ms)[0m   [0;1mSHOW FIELDS FROM `users`[0m
+Completed in 11ms (View: 3, DB: 1) | 200 OK [http://tkdevvm/users/index]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#index (for 172.16.181.1 at 2009-12-15 16:50:10) [GET]
+  [4;36;1mUser Load (0.2ms)[0m   [0;1mSELECT * FROM `users` [0m
+Rendering users/index
+  [4;35;1mUser Columns (0.5ms)[0m   [0mSHOW FIELDS FROM `users`[0m
+Completed in 15ms (View: 7, DB: 1) | 200 OK [http://tkdevvm/users/index]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#new (for 172.16.181.1 at 2009-12-15 16:50:14) [GET]
+  [4;35;1mUser Columns (0.6ms)[0m   [0mSHOW FIELDS FROM `users`[0m
+Rendering users/new
+Completed in 13ms (View: 5, DB: 1) | 200 OK [http://tkdevvm/users/new]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#create (for 172.16.181.1 at 2009-12-15 16:50:26) [POST]
+  Parameters: {"commit"=>"Create", "authenticity_token"=>"LD5N7YVno6HrMZxf/dz02RhSk6ecRpIMV9j/W27eSBU=", "user"=>{"last_name"=>"Yo", "email"=>"jyo@something.com", "first_name"=>"James"}}
+  [4;35;1mUser Columns (0.6ms)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Create (0.2ms)[0m   [0mINSERT INTO `users` (`created_at`, `updated_at`, `last_name`, `email`, `first_name`) VALUES('2009-12-16 00:50:26', '2009-12-16 00:50:26', 'Yo', 'jyo@something.com', 'James')[0m
+  [4;36;1mSQL (3.4ms)[0m   [0;1mCOMMIT[0m
+Redirected to http://tkdevvm:3000/users
+Completed in 15ms (DB: 4) | 302 Found [http://tkdevvm/users]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#show (for 172.16.181.1 at 2009-12-15 16:50:26) [GET]
+
+ActiveRecord::RecordNotFound (Couldn't find User without an ID):
+  app/controllers/users_controller.rb:7:in `show'
+
+Rendered rescues/_trace (74.9ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#show (for 172.16.181.1 at 2009-12-15 16:50:37) [GET]
+
+ActiveRecord::RecordNotFound (Couldn't find User without an ID):
+  app/controllers/users_controller.rb:7:in `show'
+
+Rendered rescues/_trace (31.8ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#index (for 172.16.181.1 at 2009-12-15 16:50:41) [GET]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM `users` [0m
+Rendering users/index
+  [4;35;1mUser Columns (0.6ms)[0m   [0mSHOW FIELDS FROM `users`[0m
+Completed in 11ms (View: 3, DB: 1) | 200 OK [http://tkdevvm/users/index]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#index (for 172.16.181.1 at 2009-12-15 16:51:33) [GET]
+  [4;35;1mUser Load (0.2ms)[0m   [0mSELECT * FROM `users` [0m
+Rendering users/index
+  [4;36;1mUser Columns (0.6ms)[0m   [0;1mSHOW FIELDS FROM `users`[0m
+Completed in 11ms (View: 3, DB: 1) | 200 OK [http://tkdevvm/users/index]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#index (for 172.16.181.1 at 2009-12-15 16:51:33) [GET]
+  [4;36;1mUser Load (0.2ms)[0m   [0;1mSELECT * FROM `users` [0m
+Rendering users/index
+  [4;35;1mUser Columns (0.5ms)[0m   [0mSHOW FIELDS FROM `users`[0m
+Completed in 11ms (View: 3, DB: 1) | 200 OK [http://tkdevvm/users/index]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#show (for 172.16.181.1 at 2009-12-15 16:51:36) [GET]
+
+ActiveRecord::RecordNotFound (Couldn't find User without an ID):
+  app/controllers/users_controller.rb:7:in `show'
+
+Rendered rescues/_trace (33.2ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#show (for 172.16.181.1 at 2009-12-15 16:51:49) [GET]
+
+ActiveRecord::RecordNotFound (Couldn't find User without an ID):
+  app/controllers/users_controller.rb:7:in `show'
+
+Rendered rescues/_trace (33.5ms)
+Rendered rescues/_request_and_response (1.3ms)
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#show (for 172.16.181.1 at 2009-12-15 16:51:50) [GET]
+
+ActiveRecord::RecordNotFound (Couldn't find User without an ID):
+  app/controllers/users_controller.rb:7:in `show'
+
+Rendered rescues/_trace (33.1ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#show (for 172.16.181.1 at 2009-12-15 16:51:50) [GET]
+
+ActiveRecord::RecordNotFound (Couldn't find User without an ID):
+  app/controllers/users_controller.rb:7:in `show'
+
+Rendered rescues/_trace (33.3ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#index (for 172.16.181.1 at 2009-12-15 16:52:03) [GET]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM `users` [0m
+Rendering users/index
+  [4;35;1mUser Columns (0.6ms)[0m   [0mSHOW FIELDS FROM `users`[0m
+Completed in 20ms (View: 10, DB: 1) | 200 OK [http://tkdevvm/users/index]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#2 (for 172.16.181.1 at 2009-12-15 16:52:06) [GET]
+
+ActionController::UnknownAction (No action responded to 2. Actions: create, index, new, and show):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#show (for 172.16.181.1 at 2009-12-15 16:52:15) [GET]
+  Parameters: {"id"=>"2"}
+  [4;36;1mUser Columns (0.7ms)[0m   [0;1mSHOW FIELDS FROM `users`[0m
+  [4;35;1mUser Load (0.4ms)[0m   [0mSELECT * FROM `users` WHERE (`users`.`id` = 2) [0m
+
+ActionView::MissingTemplate (Missing template users/show.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#index (for 172.16.181.1 at 2009-12-15 16:52:19) [GET]
+  [4;35;1mUser Load (0.3ms)[0m   [0mSELECT * FROM `users` [0m
+Rendering users/index
+  [4;36;1mUser Columns (0.5ms)[0m   [0;1mSHOW FIELDS FROM `users`[0m
+Completed in 11ms (View: 3, DB: 1) | 200 OK [http://tkdevvm/users/index]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#index (for 172.16.181.1 at 2009-12-15 16:53:18) [GET]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM `users` [0m
+Rendering users/index
+  [4;35;1mUser Columns (1.8ms)[0m   [0mSHOW FIELDS FROM `users`[0m
+Completed in 14ms (View: 3, DB: 2) | 200 OK [http://tkdevvm/users/index]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#new (for 172.16.181.1 at 2009-12-15 16:54:16) [GET]
+  [4;35;1mUser Columns (1.1ms)[0m   [0mSHOW FIELDS FROM `users`[0m
+Rendering users/new
+Completed in 85ms (View: 76, DB: 1) | 200 OK [http://tkdevvm/users/new]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#create (for 172.16.181.1 at 2009-12-15 16:54:25) [POST]
+  Parameters: {"commit"=>"Create", "authenticity_token"=>"LD5N7YVno6HrMZxf/dz02RhSk6ecRpIMV9j/W27eSBU=", "user"=>{"last_name"=>"P", "email"=>"chrisp@something.com", "first_name"=>"Chris"}}
+  [4;35;1mUser Columns (0.8ms)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Create (0.2ms)[0m   [0mINSERT INTO `users` (`created_at`, `updated_at`, `last_name`, `email`, `first_name`) VALUES('2009-12-16 00:54:25', '2009-12-16 00:54:25', 'P', 'chrisp@something.com', 'Chris')[0m
+  [4;36;1mSQL (11.2ms)[0m   [0;1mCOMMIT[0m
+Redirected to http://tkdevvm:3000/user
+Completed in 25ms (DB: 12) | 302 Found [http://tkdevvm/users]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.181.1 at 2009-12-15 16:54:25) [GET]
+
+ActionController::RoutingError (No route matches "/user" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#show (for 172.16.181.1 at 2009-12-15 16:54:31) [GET]
+
+ActiveRecord::RecordNotFound (Couldn't find User without an ID):
+  app/controllers/users_controller.rb:7:in `show'
+
+Rendered rescues/_trace (32.5ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#new (for 172.16.181.1 at 2009-12-15 16:54:45) [GET]
+  [4;36;1mUser Columns (0.6ms)[0m   [0;1mSHOW FIELDS FROM `users`[0m
+Rendering users/new
+Completed in 13ms (View: 5, DB: 1) | 200 OK [http://tkdevvm/users/new]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#create (for 172.16.181.1 at 2009-12-15 16:54:47) [POST]
+  Parameters: {"commit"=>"Create", "authenticity_token"=>"LD5N7YVno6HrMZxf/dz02RhSk6ecRpIMV9j/W27eSBU=", "user"=>{"last_name"=>"P", "email"=>"chrisp@something.com", "first_name"=>"Chris"}}
+  [4;36;1mUser Columns (0.5ms)[0m   [0;1mSHOW FIELDS FROM `users`[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mBEGIN[0m
+  [4;36;1mUser Create (0.2ms)[0m   [0;1mINSERT INTO `users` (`created_at`, `updated_at`, `last_name`, `email`, `first_name`) VALUES('2009-12-16 00:54:47', '2009-12-16 00:54:47', 'P', 'chrisp@something.com', 'Chris')[0m
+  [4;35;1mSQL (26.3ms)[0m   [0mCOMMIT[0m
+Redirected to http://tkdevvm:3000/users
+Completed in 39ms (DB: 27) | 302 Found [http://tkdevvm/users]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#show (for 172.16.181.1 at 2009-12-15 16:54:47) [GET]
+
+ActiveRecord::RecordNotFound (Couldn't find User without an ID):
+  app/controllers/users_controller.rb:7:in `show'
+
+Rendered rescues/_trace (78.3ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#show (for 172.16.181.1 at 2009-12-15 16:56:04) [GET]
+
+ActiveRecord::RecordNotFound (Couldn't find User without an ID):
+  app/controllers/users_controller.rb:7:in `show'
+
+Rendered rescues/_trace (32.6ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#index (for 172.16.181.1 at 2009-12-15 16:56:31) [GET]
+  [4;35;1mUser Load (0.6ms)[0m   [0mSELECT * FROM `users` [0m
+Rendering users/index
+  [4;36;1mUser Columns (0.6ms)[0m   [0;1mSHOW FIELDS FROM `users`[0m
+Completed in 20ms (View: 11, DB: 1) | 200 OK [http://tkdevvm/users]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.181.1 at 2009-12-15 16:56:37) [GET]
+
+ActionController::RoutingError (No route matches "/new" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#new (for 172.16.181.1 at 2009-12-15 16:56:42) [GET]
+  [4;35;1mUser Columns (0.6ms)[0m   [0mSHOW FIELDS FROM `users`[0m
+Rendering users/new
+Completed in 46ms (View: 37, DB: 1) | 200 OK [http://tkdevvm/users/new]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#create (for 172.16.181.1 at 2009-12-15 16:56:55) [POST]
+  Parameters: {"commit"=>"Create", "authenticity_token"=>"LD5N7YVno6HrMZxf/dz02RhSk6ecRpIMV9j/W27eSBU=", "user"=>{"last_name"=>"K", "email"=>"kevink@something.com", "first_name"=>"Kevin"}}
+  [4;35;1mUser Columns (0.6ms)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Create (0.2ms)[0m   [0mINSERT INTO `users` (`created_at`, `updated_at`, `last_name`, `email`, `first_name`) VALUES('2009-12-16 00:56:55', '2009-12-16 00:56:55', 'K', 'kevink@something.com', 'Kevin')[0m
+  [4;36;1mSQL (10.5ms)[0m   [0;1mCOMMIT[0m
+Redirected to http://tkdevvm:3000/users
+Completed in 23ms (DB: 11) | 302 Found [http://tkdevvm/users]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#index (for 172.16.181.1 at 2009-12-15 16:56:55) [GET]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM `users` [0m
+Rendering users/index
+  [4;35;1mUser Columns (0.5ms)[0m   [0mSHOW FIELDS FROM `users`[0m
+Completed in 11ms (View: 3, DB: 1) | 200 OK [http://tkdevvm/users]
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#show (for 172.16.181.1 at 2009-12-15 17:10:47) [GET]
+  Parameters: {"id"=>"index"}
+  [4;35;1mUser Columns (1.0ms)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM `users` WHERE (`users`.`id` = 0) [0m
+
+ActiveRecord::RecordNotFound (Couldn't find User with ID=index):
+  app/controllers/users_controller.rb:7:in `show'
+
+Rendered rescues/_trace (78.1ms)
+Rendered rescues/_request_and_response (1.4ms)
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#index (for 172.16.181.1 at 2009-12-15 17:10:53) [GET]
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM `users` [0m
+Rendering users/index
+  [4;35;1mUser Columns (0.5ms)[0m   [0mSHOW FIELDS FROM `users`[0m
+Completed in 12ms (View: 3, DB: 1) | 200 OK [http://tkdevvm/users]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.181.1 at 2009-12-15 17:11:00) [GET]
+
+ActionController::RoutingError (No route matches "/user/new" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing UsersController#new (for 172.16.181.1 at 2009-12-15 17:11:03) [GET]
+  [4;36;1mUser Columns (0.6ms)[0m   [0;1mSHOW FIELDS FROM `users`[0m
+Rendering users/new
+Completed in 13ms (View: 5, DB: 1) | 200 OK [http://tkdevvm/users/new]

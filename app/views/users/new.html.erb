@@ -1,0 +1,9 @@
+<% form_for :user, @user, :url => { :action => "create" } do |f| %>
+  <label for="user_first_name">First name</label>
+  <%= f.text_field :first_name %><br>
+  <label for="user_last_name">Last name</label>
+  <%= f.text_field :last_name %><br>
+  <label for="user_email">Email</label>
+  <%= f.text_field :email %>
+  <%= submit_tag 'Create' %>
+<% end %>
